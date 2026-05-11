@@ -1,0 +1,301 @@
+client_id,age,ville,canal,campagne,montant_achat,conversion,date
+C1000,56,Biancaberg,SMS,Black Friday,384.48,1,2026-01-03
+C1001,22,Port Krystalside,SMS,Promo Janvier,69.22,1,2025-09-09
+C1002,52,Turnermouth,Email,Black Friday,23.71,1,2025-10-21
+C1003,32,Bryanton,SMS,Black Friday,359.8,1,2026-01-10
+C1004,59,North Sandra,SMS,Noël,18.76,1,2025-06-20
+C1005,32,Reesechester,Facebook,Soldes Été,286.74,1,2026-03-24
+C1006,49,Amberbury,SMS,Soldes Été,224.28,1,2026-01-16
+C1007,58,Port Katherineville,Email,Black Friday,237.81,1,2025-07-30
+C1008,31,South Roberttown,Email,Black Friday,318.99,1,2026-03-12
+C1009,35,Leemouth,SMS,Black Friday,447.12,1,2026-02-15
+C1010,44,North Ronald,Facebook,Black Friday,80.21,1,2025-06-08
+C1011,53,North Cameron,SMS,Black Friday,108.47,1,2026-04-14
+C1012,60,Shannonburgh,Email,Noël,43.58,1,2025-10-19
+C1013,53,New Janetshire,Facebook,Noël,441.86,1,2025-07-26
+C1014,55,East Randytown,SMS,Noël,283.63,1,2025-11-27
+C1015,34,Richardhaven,Facebook,Promo Janvier,280.23,1,2026-04-01
+C1016,38,Christinaberg,SMS,Promo Janvier,477.48,1,2025-12-07
+C1017,35,Port Tonya,Email,Noël,26.47,1,2026-03-19
+C1018,38,East Jamestown,SMS,Soldes Été,171.31,1,2025-12-15
+C1019,26,New Bradleyside,Facebook,Promo Janvier,364.06,1,2025-11-07
+C1020,46,South Stephanieton,Email,Noël,471.36,1,2025-12-01
+C1021,53,East Stevenview,SMS,Soldes Été,117.27,1,2026-01-13
+C1022,24,Lake Michael,Facebook,Promo Janvier,476.92,1,2025-07-13
+C1023,50,Kelseyshire,Email,Noël,412.93,1,2025-05-24
+C1024,60,New Gailburgh,SMS,Promo Janvier,80.44,1,2026-01-16
+C1025,59,Rushbury,SMS,Noël,303.86,1,2026-02-16
+C1026,35,Yorkberg,Facebook,Soldes Été,2.95,1,2026-03-20
+C1027,23,New Sarahburgh,SMS,Noël,182.91,1,2025-10-10
+C1028,48,Lake Jill,Email,Noël,272.07,1,2025-06-13
+C1029,29,Port Elizabethton,Email,Black Friday,320.18,1,2025-11-30
+C1030,29,Marthahaven,Email,Soldes Été,75.58,1,2025-07-14
+C1031,33,Jonville,Email,Black Friday,9.54,1,2026-02-15
+C1032,37,Port Lisa,Email,Soldes Été,358.16,1,2025-12-16
+C1033,28,Darrylfort,Email,Noël,144.93,1,2025-06-07
+C1034,55,Youngberg,Email,Noël,149.51,1,2025-12-15
+C1035,60,New Markfort,Facebook,Noël,101.94,1,2025-10-30
+C1036,18,East Susanburgh,Email,Soldes Été,150.68,1,2026-01-31
+C1037,55,Garzaville,SMS,Soldes Été,110.54,1,2026-03-06
+C1038,27,Georgeview,Email,Soldes Été,5.69,1,2025-07-20
+C1039,19,Andreahaven,SMS,Black Friday,263.05,1,2025-12-13
+C1040,34,Michaelfurt,SMS,Soldes Été,454.96,1,2025-08-29
+C1041,21,Port Brandon,Facebook,Promo Janvier,197.09,1,2025-05-10
+C1042,59,Jamesbury,Facebook,Soldes Été,31.98,1,2025-09-20
+C1043,34,East Kylie,Email,Soldes Été,95.27,1,2025-08-03
+C1044,23,Lorraineside,Email,Promo Janvier,76.05,1,2026-02-03
+C1045,41,Rhodesshire,SMS,Soldes Été,12.69,1,2025-07-09
+C1046,40,North Markland,SMS,Promo Janvier,14.3,1,2025-05-16
+C1047,47,West Tara,SMS,Noël,321.86,1,2025-09-18
+C1048,55,East Pennyview,SMS,Promo Janvier,473.98,1,2026-03-09
+C1049,29,Donnabury,SMS,Soldes Été,184.92,1,2025-06-07
+C1050,19,Hansonhaven,Facebook,Soldes Été,250.98,1,2025-09-02
+C1051,56,Torresmouth,Facebook,Black Friday,468.82,1,2025-11-09
+C1052,30,Garciaside,Facebook,Noël,177.11,1,2025-11-10
+C1053,26,East Jillianside,SMS,Black Friday,338.87,1,2026-02-18
+C1054,24,South Carlosside,Email,Black Friday,84.47,1,2025-05-02
+C1055,49,Theresaside,Email,Noël,162.74,1,2025-11-07
+C1056,56,North William,SMS,Promo Janvier,157.4,1,2026-03-01
+C1057,38,Hughesbury,SMS,Soldes Été,406.52,1,2026-03-20
+C1058,22,Harrisside,SMS,Promo Janvier,385.02,1,2025-06-27
+C1059,50,New Tara,Email,Noël,166.57,1,2025-08-09
+C1060,60,Simmonsshire,Facebook,Black Friday,215.39,1,2025-07-09
+C1061,20,Williamborough,Facebook,Black Friday,399.37,1,2025-09-12
+C1062,27,New Richard,SMS,Promo Janvier,448.56,1,2026-01-03
+C1063,36,New Nancy,SMS,Promo Janvier,405.77,1,2026-01-05
+C1064,32,Myersborough,Email,Black Friday,320.83,1,2025-05-22
+C1065,25,Lake Donaldton,Facebook,Noël,215.72,1,2026-01-29
+C1066,18,East Stephenstad,SMS,Black Friday,407.8,1,2025-10-31
+C1067,33,Marymouth,Email,Noël,15.19,1,2025-11-07
+C1068,47,North Kimberlyville,SMS,Promo Janvier,476.04,1,2026-02-09
+C1069,45,Davidville,Email,Promo Janvier,33.4,1,2025-06-10
+C1070,53,New Rachel,SMS,Soldes Été,271.75,1,2025-07-14
+C1071,36,South Raymondburgh,Email,Black Friday,472.58,1,2025-12-22
+C1072,22,Cindyport,Facebook,Black Friday,223.78,1,2025-12-09
+C1073,33,Stephanieburgh,Facebook,Noël,209.03,1,2025-11-16
+C1074,41,Jenningschester,Facebook,Black Friday,495.16,1,2025-11-14
+C1075,52,Joelport,SMS,Noël,257.21,1,2025-05-06
+C1076,32,West Austinburgh,Facebook,Black Friday,445.64,1,2026-01-20
+C1077,38,West Davidside,Facebook,Soldes Été,255.31,1,2025-05-27
+C1078,29,East Sean,Facebook,Soldes Été,307.37,1,2025-12-21
+C1079,21,Robinsonburgh,Email,Promo Janvier,291.9,1,2025-11-17
+C1080,57,New Andrea,Email,Promo Janvier,423.35,1,2025-06-27
+C1081,20,East Christopher,Email,Promo Janvier,485.82,1,2026-03-02
+C1082,48,Shaunton,Facebook,Soldes Été,299.56,1,2025-11-22
+C1083,50,Jonesville,Email,Black Friday,279.6,1,2025-12-13
+C1084,28,Catherineberg,Email,Black Friday,317.33,1,2026-02-14
+C1085,29,Chanfurt,Facebook,Promo Janvier,233.73,1,2026-01-31
+C1086,44,Carrfort,Email,Soldes Été,27.24,1,2025-04-29
+C1087,33,Jamesland,Email,Promo Janvier,338.75,1,2025-11-10
+C1088,46,New Amandaburgh,Email,Soldes Été,384.19,1,2025-11-13
+C1089,52,Robertside,Facebook,Black Friday,143.55,1,2025-09-09
+C1090,23,Brendabury,Facebook,Black Friday,370.37,1,2025-12-21
+C1091,20,Lake Brandytown,Facebook,Promo Janvier,253.57,1,2025-04-18
+C1092,51,North Debbiehaven,Email,Soldes Été,359.45,1,2026-03-24
+C1093,57,North Paulberg,SMS,Promo Janvier,119.96,1,2025-05-26
+C1094,18,Fullermouth,Email,Promo Janvier,482.25,1,2026-03-30
+C1095,49,West Ericview,Facebook,Soldes Été,224.59,1,2025-12-07
+C1096,26,Wiseland,Facebook,Noël,88.01,1,2026-02-25
+C1097,36,Haasmouth,Facebook,Soldes Été,130.64,1,2026-03-08
+C1098,31,Port Kyleburgh,SMS,Promo Janvier,249.19,1,2025-04-16
+C1099,45,Kellyville,Email,Promo Janvier,307.58,1,2026-01-04
+C1100,26,Everetttown,SMS,Soldes Été,193.85,1,2025-11-10
+C1101,30,Lake David,SMS,Noël,497.95,1,2025-05-24
+C1102,56,New Alex,Email,Soldes Été,383.6,1,2026-03-15
+C1103,24,Burkehaven,SMS,Promo Janvier,225.62,1,2025-06-29
+C1104,41,Lake Andrew,Email,Noël,246.84,1,2025-08-04
+C1105,22,Smithville,SMS,Soldes Été,337.0,1,2025-05-09
+C1106,34,Jameschester,SMS,Black Friday,149.78,1,2026-04-14
+C1107,28,Lake Anthony,SMS,Black Friday,366.39,1,2025-10-08
+C1108,41,Lake Andrea,SMS,Promo Janvier,7.57,1,2025-06-17
+C1109,57,East Timothy,Facebook,Black Friday,327.06,1,2025-07-03
+C1110,23,Erinstad,Facebook,Black Friday,254.16,1,2026-01-22
+C1111,31,Beckerborough,SMS,Promo Janvier,445.07,1,2025-10-10
+C1112,23,East Christina,Facebook,Noël,387.26,1,2025-04-22
+C1113,59,North Brittney,Facebook,Noël,170.44,1,2026-03-28
+C1114,30,Port Kimberly,Email,Soldes Été,328.93,1,2025-08-31
+C1115,44,Lake Marialand,Email,Black Friday,280.24,1,2026-03-20
+C1116,53,North Curtis,Facebook,Noël,445.95,1,2025-07-16
+C1117,49,North Rachelburgh,Email,Noël,230.43,1,2025-06-22
+C1118,35,Millerberg,Facebook,Black Friday,71.33,1,2025-05-29
+C1119,46,Garnertown,SMS,Noël,207.49,1,2025-11-16
+C1120,59,Port Michaeltown,Email,Promo Janvier,446.12,1,2025-12-08
+C1121,29,Thompsonbury,Email,Soldes Été,201.88,1,2025-06-21
+C1122,42,New Kevinmouth,SMS,Soldes Été,413.97,1,2025-07-27
+C1123,57,Anneberg,Email,Black Friday,140.07,1,2025-08-14
+C1124,58,Charlesville,Facebook,Noël,28.32,1,2025-04-18
+C1125,23,East Jamesborough,SMS,Promo Janvier,461.25,1,2025-05-14
+C1126,22,Port Mary,Facebook,Noël,210.0,1,2025-10-08
+C1127,28,New Jeremy,Email,Soldes Été,215.94,1,2025-12-05
+C1128,27,West Juan,Email,Noël,67.98,1,2026-02-07
+C1129,28,South Cindy,SMS,Promo Janvier,181.16,1,2025-06-03
+C1130,59,Wadetown,SMS,Soldes Été,231.41,1,2026-03-12
+C1131,48,Danieltown,Email,Black Friday,71.47,1,2026-01-01
+C1132,41,Heidiville,SMS,Black Friday,423.18,1,2025-09-05
+C1133,19,East Hannah,Facebook,Noël,205.1,1,2025-05-01
+C1134,54,Port Erikaton,SMS,Promo Janvier,331.82,1,2025-11-17
+C1135,42,Phillipville,Facebook,Promo Janvier,486.53,1,2025-12-26
+C1136,32,Tracystad,Facebook,Black Friday,355.77,1,2025-09-23
+C1137,29,North Steven,Email,Soldes Été,71.14,1,2025-06-13
+C1138,30,Scottville,Facebook,Black Friday,308.95,1,2025-05-24
+C1139,55,Allenborough,Email,Noël,471.01,1,2025-11-11
+C1140,34,East Joshuaton,SMS,Soldes Été,434.07,1,2025-08-01
+C1141,60,Port Kyleside,SMS,Noël,98.77,1,2026-03-12
+C1142,51,Lake Anthony,Email,Soldes Été,371.75,1,2026-01-14
+C1143,42,East Martinland,Email,Promo Janvier,482.9,1,2025-11-30
+C1144,40,South Renee,Email,Promo Janvier,20.96,1,2025-11-19
+C1145,39,North Vanessa,Facebook,Promo Janvier,456.43,1,2026-02-27
+C1146,41,Davidside,SMS,Black Friday,302.13,1,2025-11-12
+C1147,23,Harrisborough,SMS,Soldes Été,79.19,1,2025-07-23
+C1148,39,West Amy,Facebook,Black Friday,327.26,1,2026-03-30
+C1149,49,Julieside,Facebook,Promo Janvier,159.91,1,2026-02-05
+C1150,34,Thomaschester,Facebook,Soldes Été,252.08,1,2025-06-19
+C1151,56,Port Ernestberg,Email,Promo Janvier,237.19,1,2026-04-14
+C1152,35,Davisborough,Email,Promo Janvier,4.21,1,2026-02-21
+C1153,50,Dustinborough,Email,Soldes Été,346.24,1,2026-02-21
+C1154,54,Powellmouth,SMS,Black Friday,235.41,1,2025-11-23
+C1155,26,Robbinsmouth,SMS,Soldes Été,217.92,1,2026-01-06
+C1156,19,Michaeltown,Facebook,Promo Janvier,493.03,1,2025-06-21
+C1157,44,Josephview,Facebook,Soldes Été,440.72,1,2025-12-13
+C1158,45,New Lori,Email,Black Friday,354.76,1,2026-03-15
+C1159,28,Waltersmouth,Facebook,Promo Janvier,45.83,1,2025-08-02
+C1160,22,East Nicholas,SMS,Black Friday,394.78,1,2025-07-12
+C1161,52,Shannonmouth,Facebook,Black Friday,260.46,1,2025-10-28
+C1162,32,Amandamouth,Email,Noël,290.3,1,2025-07-28
+C1163,56,Devinborough,Facebook,Black Friday,471.46,1,2026-04-10
+C1164,34,Ruizland,Facebook,Black Friday,123.81,1,2025-11-24
+C1165,25,Barberchester,Email,Noël,77.13,1,2025-06-29
+C1166,28,Carrolltown,SMS,Promo Janvier,33.37,1,2025-07-13
+C1167,25,East Christopher,SMS,Promo Janvier,212.49,1,2026-04-06
+C1168,19,Lake Zachary,Facebook,Black Friday,475.03,1,2025-09-30
+C1169,51,South Scott,Facebook,Black Friday,110.16,1,2026-03-28
+C1170,43,West Elizabeth,Facebook,Soldes Été,398.66,1,2026-03-27
+C1171,40,North Tammytown,SMS,Promo Janvier,149.46,1,2025-06-10
+C1172,50,Port Micheleborough,Facebook,Black Friday,405.52,1,2025-05-15
+C1173,54,New Adrianbury,Email,Noël,386.97,1,2025-05-26
+C1174,27,Thomashaven,Email,Promo Janvier,127.67,1,2025-06-24
+C1175,23,West Gailtown,Facebook,Promo Janvier,475.09,1,2026-02-07
+C1176,20,South Dana,Email,Soldes Été,433.29,1,2025-06-02
+C1177,32,East Jennifer,Facebook,Black Friday,460.65,1,2025-04-22
+C1178,41,New Jenniferchester,Facebook,Soldes Été,206.49,1,2025-07-29
+C1179,33,Jeremychester,SMS,Black Friday,188.87,1,2026-01-07
+C1180,46,West Tommy,SMS,Black Friday,311.07,1,2025-07-12
+C1181,41,Lake Zachary,SMS,Noël,31.89,1,2026-03-10
+C1182,23,East Sarah,Facebook,Black Friday,179.37,1,2025-05-24
+C1183,39,Lake Christophermouth,SMS,Noël,352.84,1,2025-11-18
+C1184,41,Websterburgh,SMS,Soldes Été,206.25,1,2025-05-11
+C1185,37,West Mercedes,SMS,Black Friday,135.79,1,2025-09-06
+C1186,29,New Henryview,SMS,Black Friday,435.56,1,2025-08-20
+C1187,44,Pughton,Email,Soldes Été,279.1,1,2025-12-14
+C1188,60,West Roberthaven,Facebook,Soldes Été,397.31,1,2026-03-12
+C1189,40,Evanshaven,Facebook,Black Friday,304.59,1,2026-02-06
+C1190,60,New Danielburgh,Email,Soldes Été,160.36,1,2025-05-23
+C1191,37,West Jamesbury,Email,Promo Janvier,107.03,1,2025-05-09
+C1192,38,South Calebstad,Facebook,Promo Janvier,413.44,1,2025-09-22
+C1193,30,Smithmouth,SMS,Black Friday,246.25,1,2025-11-07
+C1194,49,Traceymouth,SMS,Black Friday,233.38,1,2025-07-06
+C1195,58,New Stephen,Email,Soldes Été,377.41,1,2025-05-02
+C1196,37,Port Tyler,Email,Promo Janvier,78.43,1,2026-03-09
+C1197,32,New Brian,SMS,Soldes Été,146.76,1,2025-06-03
+C1198,25,North Ginafort,Email,Noël,381.1,1,2025-07-10
+C1199,27,East Haroldland,Facebook,Noël,397.76,1,2025-09-26
+C1200,53,South Christopherville,Email,Black Friday,205.72,1,2025-07-05
+C1201,26,Port Katrina,SMS,Black Friday,349.46,1,2026-02-20
+C1202,37,West Cindymouth,Email,Soldes Été,143.84,1,2026-01-16
+C1203,19,Port Abigail,Email,Promo Janvier,105.98,1,2025-12-19
+C1204,43,Adrianside,Facebook,Soldes Été,376.64,1,2025-08-12
+C1205,32,Danielberg,Email,Soldes Été,275.44,1,2025-07-17
+C1206,28,Lake Mark,Facebook,Black Friday,474.12,1,2026-03-22
+C1207,23,Port Matthew,Facebook,Noël,130.9,1,2025-06-21
+C1208,34,Wilsonhaven,SMS,Black Friday,128.72,1,2025-05-28
+C1209,36,Port Kayleeside,Facebook,Black Friday,159.7,1,2025-06-24
+C1210,59,Ashleyhaven,Facebook,Soldes Été,213.34,1,2025-10-18
+C1211,29,Maryberg,Email,Soldes Été,297.6,1,2025-12-22
+C1212,27,West Michaelchester,Email,Noël,5.61,1,2025-07-02
+C1213,55,Port David,Email,Promo Janvier,388.64,1,2026-01-18
+C1214,59,Freystad,Facebook,Noël,94.68,1,2026-03-23
+C1215,21,East Nancy,Email,Soldes Été,487.27,1,2026-02-07
+C1216,53,East Mariaborough,SMS,Promo Janvier,481.7,1,2026-01-29
+C1217,40,Lake Parker,Facebook,Black Friday,84.72,1,2025-08-26
+C1218,59,South Melissa,SMS,Black Friday,7.57,1,2025-08-26
+C1219,40,East Charlesshire,SMS,Noël,17.0,1,2025-12-23
+C1220,58,Cummingsview,Facebook,Black Friday,33.95,1,2025-09-01
+C1221,49,New Anthony,Email,Promo Janvier,479.4,1,2025-09-27
+C1222,19,Davidhaven,Facebook,Black Friday,196.64,1,2025-11-15
+C1223,18,North Joshua,SMS,Promo Janvier,318.71,1,2026-02-04
+C1224,51,New Michael,Facebook,Noël,397.58,1,2026-01-04
+C1225,52,Jonathanton,SMS,Promo Janvier,206.3,1,2025-07-15
+C1226,52,Port Jerry,Facebook,Black Friday,125.32,1,2025-07-19
+C1227,57,Rodgersberg,Email,Soldes Été,210.09,1,2026-02-23
+C1228,18,West David,SMS,Black Friday,225.31,1,2025-08-26
+C1229,22,Tammyfurt,Facebook,Soldes Été,445.04,1,2026-01-10
+C1230,40,Port Annette,Email,Promo Janvier,167.33,1,2025-06-30
+C1231,42,South Jamesfurt,SMS,Noël,301.44,1,2026-03-04
+C1232,24,Kimberlychester,Facebook,Soldes Été,184.39,1,2026-03-13
+C1233,49,South Michael,Facebook,Noël,368.08,1,2026-04-06
+C1234,38,New Daniel,Email,Soldes Été,480.26,1,2026-02-08
+C1235,21,Zhangbury,Facebook,Black Friday,88.0,1,2025-10-16
+C1236,55,West Amandafurt,SMS,Noël,71.81,1,2026-03-06
+C1237,33,East Theresaborough,Email,Soldes Été,28.66,1,2025-04-20
+C1238,46,Moyerberg,SMS,Black Friday,155.23,1,2026-02-16
+C1239,38,Lake Steveberg,Facebook,Promo Janvier,312.69,1,2025-04-18
+C1240,23,North Haleyborough,Facebook,Soldes Été,42.23,1,2025-11-17
+C1241,47,Bobbyhaven,Email,Black Friday,52.85,1,2025-09-25
+C1242,26,Velazquezfort,Facebook,Promo Janvier,215.46,1,2025-12-29
+C1243,30,South Benjamin,Email,Soldes Été,452.76,1,2025-08-01
+C1244,27,Sanchezshire,SMS,Noël,41.91,1,2025-09-02
+C1245,45,Liumouth,SMS,Black Friday,412.71,1,2025-10-18
+C1246,36,Alishafurt,Email,Promo Janvier,420.56,1,2026-03-17
+C1247,23,East Christy,Facebook,Noël,85.23,1,2025-10-10
+C1248,35,New Bradleytown,SMS,Black Friday,30.42,1,2026-04-08
+C1249,43,New Ashley,Facebook,Black Friday,56.61,1,2025-06-20
+C1250,60,East Julie,Email,Promo Janvier,78.32,1,2026-03-02
+C1251,27,West Dylan,Email,Soldes Été,131.75,1,2026-02-26
+C1252,57,North Crystalfort,Email,Promo Janvier,405.25,1,2025-06-24
+C1253,35,Lambertside,Facebook,Soldes Été,146.09,1,2025-11-18
+C1254,41,Stephaniehaven,Facebook,Soldes Été,388.76,1,2025-04-25
+C1255,48,Morganstad,SMS,Black Friday,468.67,1,2026-01-17
+C1256,51,Youngchester,Email,Promo Janvier,360.83,1,2025-08-29
+C1257,52,Williechester,Email,Soldes Été,83.24,1,2025-12-31
+C1258,53,Coryhaven,SMS,Black Friday,353.65,1,2026-02-14
+C1259,35,West Christine,Facebook,Promo Janvier,69.05,1,2025-09-08
+C1260,55,Julieborough,Email,Soldes Été,238.96,1,2026-02-11
+C1261,21,South Jamesborough,Facebook,Black Friday,280.37,1,2025-07-19
+C1262,55,Greenland,SMS,Noël,81.25,1,2025-09-28
+C1263,53,Schroederborough,Facebook,Black Friday,124.56,1,2025-12-29
+C1264,20,Lake Jamesport,SMS,Noël,2.05,1,2026-03-30
+C1265,46,Carneyberg,SMS,Soldes Été,192.13,1,2025-10-30
+C1266,51,North Matthewborough,SMS,Promo Janvier,128.2,1,2025-10-10
+C1267,46,Lake Donaldberg,Facebook,Black Friday,460.5,1,2025-05-27
+C1268,44,New Kevinborough,Facebook,Soldes Été,232.49,1,2025-08-01
+C1269,29,Port Lisaside,Email,Promo Janvier,186.65,1,2025-11-22
+C1270,49,South Rachelview,Facebook,Noël,302.79,1,2025-05-26
+C1271,48,South Evanberg,Email,Noël,150.84,1,2025-06-07
+C1272,31,Ryanborough,Email,Promo Janvier,155.53,1,2025-09-15
+C1273,40,Port Johnland,Email,Promo Janvier,251.18,1,2026-01-13
+C1274,30,West Eric,Email,Soldes Été,214.17,1,2025-05-12
+C1275,54,South Christophermouth,SMS,Soldes Été,359.61,1,2025-05-22
+C1276,34,New Rachel,Facebook,Soldes Été,109.67,1,2025-10-12
+C1277,24,Port Steven,SMS,Promo Janvier,99.1,1,2025-08-19
+C1278,37,Davidchester,SMS,Black Friday,212.03,1,2026-01-05
+C1279,53,East Richard,SMS,Noël,247.45,1,2025-12-10
+C1280,43,East Marie,Facebook,Black Friday,221.79,1,2025-08-22
+C1281,36,North Andrewmouth,Email,Soldes Été,345.26,1,2026-01-31
+C1282,30,West Sandra,Email,Soldes Été,54.1,1,2025-09-18
+C1283,18,Sarahhaven,Email,Promo Janvier,150.47,1,2025-04-17
+C1284,19,Lawsonview,SMS,Soldes Été,473.53,1,2025-04-20
+C1285,60,South Matthew,SMS,Promo Janvier,276.28,1,2025-08-09
+C1286,45,Matthewside,Email,Noël,264.46,1,2025-08-16
+C1287,35,North Ricky,SMS,Promo Janvier,180.86,1,2025-11-20
+C1288,43,Washingtonview,Email,Soldes Été,181.77,1,2026-03-19
+C1289,21,Karenchester,SMS,Noël,411.55,1,2025-08-07
+C1290,39,Port Jessica,Facebook,Black Friday,169.45,1,2025-10-30
+C1291,22,Knoxbury,Email,Soldes Été,350.32,1,2025-12-11
+C1292,29,Port Lanceside,Facebook,Soldes Été,270.19,1,2026-02-08
+C1293,37,Ortizland,Email,Promo Janvier,285.6,1,2025-08-11
+C1294,52,New Taraberg,SMS,Black Friday,106.81,1,2025-12-02
+C1295,47,Lake Ashley,SMS,Black Friday,340.46,1,2025-05-25
+C1296,32,Lake Kenneth,Email,Soldes Été,32.87,1,2025-12-17
+C1297,29,Allenshire,Facebook,Black Friday,173.32,1,2025-11-24
+C1298,60,Faulknerberg,Facebook,Noël,162.35,1,2026-01-14
+C1299,57,Hurleyton,Facebook,Soldes Été,402.8,1,2025-11-09
